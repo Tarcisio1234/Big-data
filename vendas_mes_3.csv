@@ -40,7 +40,7 @@ Unnamed: 0,Produto ,Quantidade,Tipo,Data
 346,porco,151.0,porco,2024-03-14
 344,boi,136.0,boi,2024-03-14
 345,boi,231.0,boi,2024-03-14
-347,boi,263.0,porco,2024-03-13
+347,boi,263.0,boi,2024-03-13
 348,porco,80.0,porco,2024-03-13
 349,boi,136.0,boi,2024-03-12
 350,porco,77.0,porco,2024-03-12
@@ -51,7 +51,7 @@ Unnamed: 0,Produto ,Quantidade,Tipo,Data
 354,boi,128.0,boi,2024-03-10
 356,boi,45.0,boi,2024-03-09
 357,barriga suina,154.0,porco,2024-03-08
-358,boi,292.0,frango,2024-03-08
+358,boi,292.0,boi,2024-03-08
 359,frango,18.0,frango,2024-03-08
 360,coxa,40.0,frango,2024-03-08
 361,barriga suina,21.0,porco,2024-03-07
@@ -76,5 +76,5 @@ Unnamed: 0,Produto ,Quantidade,Tipo,Data
 380,coxa,18.0,frango,2024-03-01
 381,coxa,40.0,frango,2024-03-01
 382,porco,155.0,porco,2024-03-01
-383,barriga suina,24694,porco,2024-03-01
+383,barriga suina,24,porco,2024-03-01
 384,boi,164.0,boi,2024-03-01
