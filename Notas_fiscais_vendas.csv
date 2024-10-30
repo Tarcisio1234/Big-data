@@ -1,729 +1,780 @@
-Produto ;Quantidade;Tipo;Data
-boi;34.0;boi;2024-12-29
-boi ;49.0;boi;2024-12-28
-file de frango;105.0;frango;2024-09-01
-carne de boi;44.0;boi;2024-05-28
-carne de boi;126.0;boi;2024-05-28
-carne de boi;27.0;boi;2024-05-28
-porco;152.0;porco;2024-05-27
-carne de boi;84.0;boi;2024-05-26
-carne de boi;137.0;boi;2024-05-26
-peito frango;20.0;frango;2024-05-25
-peito frango;30.0;frango;2024-05-25
-pé frango;15.0;frango;2024-05-25
-coxa;20.0;frango;2024-05-25
-porco;148.0;porco;2024-05-24
-carne de boi;127.3;boi;2024-05-24
-porco;24.62;porco;2024-05-24
-file de frango;60.0;frango;2024-05-24
-coxa de frango;17.0;frango;2024-05-23
-file de frango;25.0;frango;2024-05-23
-lingueça;10.0;porco;2024-05-23
-carne de boi;148.0;boi;2024-05-23
-miolo de alcatra;23.53;boi;2024-05-23
-carne de boi;86.0;boi;2024-05-23
-porco;162.0;porco;2024-05-23
-maminha;24.13;boi;2024-05-23
-carne de boi;129.0;boi;2024-05-23
-porco;150.0;porco;2024-05-22
-bacon;18.0;porco;2024-05-22
-carne de boi;44.0;boi;2024-05-22
-carne de boi;119.0;boi;2024-05-22
-coxinha;32.0;frango;2024-05-21
-peito frango;15.0;frango;2024-05-21
-porco;16.0;porco;2024-05-21
-file de frango;60.0;frango;2024-05-21
-lingueça;5.0;porco;2024-05-21
-carne de boi;230.0;boi;2024-05-20
-carne de boi;139.0;boi;2024-05-20
-porco;74.0;porco;2024-05-20
-file de frango;54.0;frango;2024-05-20
-moela;84.0;frango;2024-05-18
-porco;184.0;porco;2024-05-17
-barriga suina;23.0;porco;2024-05-17
-carne de boi;283.0;boi;2024-05-17
-porco;77.0;porco;2024-05-16
-coxa;20.0;frango;2024-05-16
-carne de boi;250.0;boi;2024-05-16
-frango;10.0;frango;2024-05-16
-file de frango;60.0;frango;2024-05-16
-frango;20.0;frango;2024-05-16
-coxa;18.0;frango;2024-05-15
-file de frango;20.0;frango;2024-05-15
-carne de porco;81.0;porco;2024-05-15
-pernil;19.0;porco;2024-05-15
-carne de boi;272.0;boi;2024-05-15
-file de frango;36.0;frango;2024-05-15
-carne boi;57.0;boi;2024-05-14
-carne de boi;150.0;boi;2024-05-14
-file de frango;60.0;frango;2024-05-14
-barriga suina;21.0;porco;2024-05-14
-miolo de alcatra;25.28;boi;2024-05-14
-porco;161.0;porco;2024-05-13
-boi;136.0;boi;2024-05-12
-miolo de alcatra;22.0;boi;2024-05-11
-porco;197.0;porco;2024-05-10
-file de frango;36.0;frango;2024-05-10
-carne de boi;267.0;boi;2024-05-10
-carne de boi;53.0;boi;2024-05-09
-porco;155.0;porco;2024-05-09
-carne de boi;134.0;boi;2024-05-09
-carne de boi;139.0;boi;2024-05-09
-boi;135.0;boi;2024-05-08
-bacon;18.0;porco;2024-05-08
-boi;49.0;boi;2024-05-08
-porco;79.0;porco;2024-05-08
-porco;25.0;porco;2024-05-08
-porco;175.0;porco;2024-05-07
-boi;333.0;boi;2024-05-07
-file de frango;36.0;frango;2024-05-06
-boi;235.0;boi;2024-05-06
-barriga suina;28.0;porco;2024-05-06
-porco;78.0;porco;2024-05-06
-coxa;20.0;frango;2024-05-04
-file de frango;20.0;frango;2024-05-04
-boi;297.0;boi;2024-05-04
-file de frango;20.0;frango;2024-05-04
-file de frango;60.0;frango;2024-05-03
-moela;80.0;frango;2024-05-03
-porco;158.0;porco;2024-05-03
-porco;98.0;porco;2024-05-02
-file de frango;20.0;frango;2024-05-02
-barriga suina;22.0;porco;2024-05-02
-coxa;40.0;frango;2024-05-02
-boi;89.0;boi;2024-05-02
-boi;140.0;boi;2024-05-02
-barriga suina;20.92;porco;2024-04-30
-porco;73.0;porco;2024-04-30
-file de frango;60.0;frango;2024-04-30
-boi;298.0;boi;2024-04-30
-porco;168.0;porco;2024-04-29
-boi;125.0;boi;2024-04-29
-porco;10.0;porco;2024-04-28
-boi;44.0;boi;2024-04-28
-boi;143.0;boi;2024-04-26
-frango;60.0;frango;2024-04-26
-porco;159.0;porco;2024-04-26
-boi;180.0;boi;2024-04-25
-barriga suina;27.5;porco;2024-04-25
-boi;155.0;boi;2024-04-25
-porco;168.0;porco;2024-04-25
-miolo de alcatra;27.3;boi;2024-04-25
-frango;15.5;frango;2024-04-24
-boi;126.0;boi;2024-04-24
-porco;88.0;porco;2024-04-24
-porco;81.0;porco;2024-04-23
-boi;99.2;boi;2024-04-23
-boi;191.0;boi;2024-04-23
-porco;45.0;porco;2024-04-23
-porco;79.0;porco;2024-04-22
-coxa;40.0;frango;2024-04-22
-frango;80.0;frango;2024-04-22
-boi;127.8;boi;2024-04-22
-coxa;40.0;frango;2024-04-20
-frango;20.0;frango;2024-04-20
-boi;136.0;boi;2024-04-19
-barriga suina;26.544;porco;2024-04-19
-porco;162.0;porco;2024-04-19
-porco;78.0;porco;2024-04-18
-miolo de alcatra;28.0;boi;2024-04-18
-boi;142.0;boi;2024-04-18
-boi;127.0;boi;2024-04-18
-barriga suina;26.494;porco;2024-04-18
-boi;129.0;boi;2024-04-17
-porco;80.0;porco;2024-04-17
-boi;147.0;boi;2024-04-17
-bacon;9.0;porco;2024-04-17
-boi;137.0;boi;2024-04-16
-porco;86.0;porco;2024-04-16
-boi;165.0;boi;2024-04-16
-file de frango;60.0;frango;2024-04-16
-asa de frango;32.0;frango;2024-04-16
-boi;148.0;boi;2024-04-14
-boi;48.0;boi;2024-04-14
-porco;76.0;porco;2024-04-14
-pé frango;15.0;frango;2024-04-13
-lingueça;5.0;porco;2024-04-13
-porco;168.0;porco;2024-04-12
-boi;163.0;boi;2024-04-12
-boi;126.6;boi;2024-04-11
-frango;30.0;frango;2024-04-11
-frango;30.0;frango;2024-04-11
-barriga suina;22.67;porco;2024-04-11
-boi;266.0;boi;2024-04-11
-boi;246.0;boi;2024-04-10
-porco;82.0;porco;2024-04-10
-porco;162.0;porco;2024-04-10
-boi;274.0;boi;2024-04-09
-porco;81.0;porco;2024-04-09
-file de frango;30.0;frango;2024-04-09
-frango;60.0;frango;2024-04-08
-porco;73.0;frango;2024-04-08
-file de frango;72.0;frango;2024-04-08
-boi;121.6;boi;2024-04-08
-coxa;60.0;frango;2024-04-06
-boi;191.0;boi;2024-04-05
-porco;158.0;porco;2024-04-05
-boi;166.9;boi;2024-04-04
-boi;288.0;boi;2024-04-04
-barriga suina;21.794;porco;2024-04-04
-porco;82.0;porco;2024-04-04
-lingueça;5.0;porco;2024-04-04
-coxinha;36.0;frango;2024-04-03
-boi;277.0;boi;2024-04-03
-porco;80.0;porco;2024-04-03
-file de frango;20.0;frango;2024-04-02
-file de frango;40.0;frango;2024-04-02
-peito frango;60.0;frango;2024-04-02
-boi;157.3;boi;2024-04-02
-boi;48.0;boi;2024-04-02
-porco;168.0;porco;2024-04-01
-boi;233.0;boi;2024-04-01
-pernil;17.8;porco;2024-04-01
-porco;73.0;porco;2024-03-29
-porco;139.0;porco;2024-03-28
-boi;50.0;boi;2024-03-28
-boi;114.0;boi;2024-03-28
-boi;135.0;boi;2024-03-27
-porco;88.0;porco;2024-03-27
-boi;193.0;boi;2024-03-27
-frango;60.0;frango;2024-03-26
-boi;182.0;boi;2024-03-26
-coxa;30.0;frango;2024-03-25
-coxinha;18.0;frango;2024-03-25
-boi;174.0;boi;2024-03-25
-porco;153.0;porco;2024-03-24
-miolo de alcatra;22.0;boi;2024-03-23
-boi;128.0;boi;2024-03-22
-file de frango;40.0;frango;2024-03-22
-file de frango;36.0;frango;2024-03-22
-porco;163.0;porco;2024-03-22
-file de frango;60.0;frango;2024-03-21
-lingueça;5.0;porco;2024-03-21
-boi;162.0;boi;2024-03-21
-file de frango;40.0;frango;2024-03-21
-barriga suina;27.0;porco;2024-03-21
-boi;119.0;boi;2024-03-21
-porco;152.0;porco;2024-03-20
-bacon;18.0;porco;2024-03-20
-boi;170.0;boi;2024-03-20
-coxinha;15.0;frango;2024-03-19
-boi;359.0;boi;2024-03-19
-frango;15.0;frango;2024-03-19
-coxa;60.0;frango;2024-03-19
-porco;155.0;porco;2024-03-18
-file de frango;30.0;frango;2024-03-18
-boi;180.0;boi;2024-03-17
-barriga suina;28.0;porco;2024-03-15
-file de frango;40.0;frango;2024-03-15
-boi;113.6;boi;2024-03-15
-porco;153.0;porco;2024-03-15
-porco;151.0;porco;2024-03-14
-boi;231.0;boi;2024-03-14
-boi;136.0;boi;2024-03-14
-boi;263.0;porco;2024-03-13
-porco;80.0;porco;2024-03-13
-file de frango;60.0;frango;2024-03-12
-coxa;20.0;frango;2024-03-12
-boi;136.0;boi;2024-03-12
-porco;77.0;porco;2024-03-12
-boi;114.0;boi;2024-03-11
-porco;156.0;porco;2024-03-10
-boi;128.0;boi;2024-03-10
-boi;45.0;boi;2024-03-09
-barriga suina;154.0;porco;2024-03-08
-boi;292.0;frango;2024-03-08
-frango;18.0;frango;2024-03-08
-coxa;40.0;frango;2024-03-08
-barriga suina;21.0;porco;2024-03-07
-boi;124.0;boi;2024-03-07
-boi;166.0;boi;2024-03-07
-porco;76.0;porco;2024-03-06
-porco;79.0;porco;2024-03-06
-boi;122.0;boi;2024-03-06
-boi;310.0;boi;2024-03-05
-file de frango;40.0;frango;2024-03-05
-alcatra;27.35;boi;2024-03-05
-frango;120.0;frango;2024-03-05
-porco;78.0;porco;2024-03-05
-lingueça;5.0;porco;2024-03-05
-coxinha;15.0;frango;2024-03-05
-file de frango;40.0;frango;2024-03-04
-pernil;22.6;porco;2024-03-03
-boi;132.4;boi;2024-03-03
-boi;222.0;boi;2024-03-03
-porco;146.0;porco;2024-03-03
-porco;155.0;porco;2024-03-01
-moela;108.0;frango;2024-03-01
-coxa;18.0;frango;2024-03-01
-boi;164.0;boi;2024-03-01
-coxa;40.0;frango;2024-03-01
-barriga suina;24.694;porco;2024-03-01
-boi;110.0;boi;2024-02-29
-bacon;18.0;porco;2024-02-28
-boi;163.0;boi ;2024-02-28
-porco;76.0;porco;2024-02-27
-miolo de alcatra;21.0;boi;2024-02-27
-boi;214.0;boi;2024-02-27
-boi;165.0;boi;2024-02-26
-boi;176.0;boi;2024-02-26
-file de frango;80.0;frango;2024-02-23
-porco;158.0;porco;2024-02-23
-boi;137.0;boi;2024-02-23
-barriga suina;23.7;porco;2024-02-23
-boi;170.0;boi;2024-02-22
-boi;148.0;boi;2024-02-22
-porco;75.0;porco;2024-02-22
-contra file;25.6;boi;2024-02-21
-file de frango;80.0;frango;2024-02-21
-porco;85.0;porco;2024-02-21
-frango;67.0;frango;2024-02-21
-boi;194.0;boi;2024-02-21
-file de frango;40.0;frango;2024-02-20
-frango;58.0;frango;2024-02-20
-boi;259.0;boi;2024-02-20
-frango;77.0;frango;2024-02-20
-file de frango;60.0;frango;2024-02-20
-porco;82.0;porco;2024-02-20
-file de frango;30.0;frango;2024-02-19
-boi;236.0;boi;2024-02-18
-porco;140.0;porco;2024-02-18
-contra file;141.0;boi;2024-02-18
-lingueça;5.0;porco;2024-02-17
-contra file;27.0;boi;2024-02-17
-file de frango;40.0;frango;2024-02-16
-barriga suina;24.0;porco;2024-02-16
-porco;159.0;porco;2024-02-16
-boi;200.0;boi;2024-02-16
-boi;125.0;boi;2024-02-15
-frango;40.0;frango;2024-02-15
-porco;80.0;porco;2024-02-15
-boi;348.0;boi;2024-02-15
-frango;76.0;frango;2024-02-15
-bacon;18.0;porco;2024-02-14
-boi;163.0;boi;2024-02-14
-porco;141.0;porco;2024-02-14
-porco;147.0;porco;2024-02-09
-boi;239.0;boi;2024-02-09
-porco;163.0;porco;2024-02-08
-miolo de alcatra;24.4;boi;2024-02-08
-boi;250.0;boi;2024-02-08
-boi;121.0;boi;2024-02-07
-porco;76.0;porco;2024-02-07
-barriga suina;24.0;porco;2024-02-07
-porco;83.0;porco;2024-02-06
-file de frango;60.0;frango;2024-02-06
-boi;273.0;boi;2024-02-06
-porco;79.0;porco;2024-02-05
-boi;247.0;boi;2024-02-05
-boi;149.0;boi;2024-02-04
-miolo de alcatra;24.5;boi;2024-02-02
-contra file;19.5;boi;2024-02-02
-boi;167.0;boi;2024-02-02
-porco;162.0;porco;2024-02-02
-boi;147.0;boi;2024-02-01
-barriga suina;21.27;porco;2024-02-01
-boi;155.0;boi;2024-02-01
-frango;34.0;frango;2024-01-31
-boi;154.0;boi;2024-01-31
-porco;86.0;porco;2024-01-31
-boi;163.0;boi;2024-01-30
-miolo de alcatra;20.0;porco;2024-01-29
-boi;161.0;boi;2024-01-29
-porco;151.0;porco;2024-01-29
-boi;161.0;boi;2024-01-26
-file de frango;18.0;frango;2024-01-26
-porco;82.0;porco;2024-01-26
-boi;26.0;boi;2024-01-25
-frango;60.0;frango;2024-01-25
-boi;167.0;boi;2024-01-25
-frango;80.0;frango;2024-01-25
-boi;122.0;boi;2024-01-24
-file de frango;80.0;frango;2024-01-24
-porco;85.0;porco;2024-01-24
-coxa;40.0;porco;2024-01-24
-pernil;17.0;porco;2024-01-24
-bacon;18.0;porco;2024-01-24
-file de frango;80.0;frango;2024-01-23
-boi;105.0;boi;2024-01-23
-boi;98.0;boi;2024-01-23
-porco;84.0;porco;2024-01-22
-boi;117.0;boi;2024-01-22
-boi;131.0;boi;2024-01-21
-porco;57.0;porco;2024-01-19
-frango;60.0;frango;2024-01-19
-boi;332.0;boi;2024-01-19
-frango;45.0;frango;2024-01-18
-boi;153.0;boi;2024-01-18
-porco;86.0;porco;2024-01-18
-porco;86.0;porco;2024-01-17
-boi;130.0;boi;2024-01-17
-frango;45.0;frango;2024-01-16
-boi;152.0;boi;2024-01-16
-boi;231.0;boi;2024-01-16
-boi;131.0;boi;2024-01-15
-por;86.0;porco;2024-01-15
-boi;82.0;boi;2024-01-14
-porco *****;75.0;porco;2024-01-12
-file de frango;36.0;frango;2024-01-12
-boi;161.0;boi;2024-01-12
-boi;279.0;boi;2024-01-11
-porco;82.0;porco;2024-01-11
-miolo de alcatra;26.0;boi;2024-01-11
-boi;118.0;boi;2024-01-11
-frango;47.0;frango;2024-01-11
-miolo de alcatra;138.0;boi;2024-01-10
-porco;78.0;porco;2024-01-10
-boi;214.0;boi;2024-01-09
-porco;84.0;porco;2024-01-09
-boi;129.0;boi;2024-01-09
-boi;62.0;boi;2024-01-08
-lingueça;5.0;porco;2024-01-06
-frango;70.0;frango;2024-01-06
-miolo de alcatra;26.0;boi;2024-01-05
-boi;119.0;boi;2024-01-05
-bacon;18.0;porco;2024-01-04
-boi;168.0;boi;2024-01-04
-costela;142.0;boi;2024-01-04
-pernil;16.0;porco;2024-01-04
-file de frango;40.0;frango;2024-01-03
-boi;370.0;boi;2024-01-03
-file de frango;60.0;frango;2024-01-02
-boi;94.0;boi;2024-01-02
-file de frango;60.0;frango;2024-01-02
-porco;83.0;porco;2024-01-01
-porco;22.5;porco;2023-12-29
-boi;131.0;boi;2023-12-29
-MIOLO DE ALCATRA;28.714;Boi;2023-12-29
-CARCAÇA SUÍNA;166.0;Porco;2023-12-28
-TRASEIRO DE BOI;49.0;Boi;2023-12-28
-CARCAÇA BOVINA;130.0;Boi;2023-12-28
-CARCAÇA BOVINA;134.8;Boi;2023-12-28
-CARCAÇA SUÍNA;78.0;Porco;2023-12-28
-boi;130.0;boi;2023-12-28
-CARCAÇA BOVINA;130.0;Boi;2023-12-28
-TRASEIRO DE BOI;49.0;Boi;2023-12-28
-poro;78.0;porco;2023-12-28
-porco;166.0;porco;2023-12-28
-boi;134.0;boi;2023-12-28
-CARCAÇA BOVINA;233.0;Boi;2023-12-27
-TRASEIRO DE BOI;45.0;Boi;2023-12-27
-ALCATRA BOVINA;20.838;Boi;2023-12-27
-FILÉ DE PEITO;20.0;Frango;2023-12-27
-ALCATRA BOVINA;26.608;Boi;2023-12-26
-CARCAÇA BOVINA;144.0;Boi;2023-12-26
-DIANTEIRO DE BOI;41.0;Boi;2023-12-26
-FILÉ DE FRANGO;36.0;Frango;2023-12-26
-ASA;15.0;Frango;2023-12-21
-FILÉ DE FRANGO;36.0;Frango;2023-12-21
-CARCAÇA BOVINA;134.0;Boi;2023-12-21
-PERNIL;21.398;Porco;2023-12-21
-CARCAÇA BOVINA;129.5;Boi;2023-12-21
-CARCAÇA SUÍNA;90.0;Porco;2023-12-21
-CARCAÇA BOVINA;128.0;Boi;2023-12-20
-FILÉ DE FRANGO;36.0;Frango;2023-12-20
-CARCAÇA BOVINA;138.0;Boi;2023-12-20
-TRASEIRO DE BOI;51.0;Boi;2023-12-20
-BARRIGA SUÍNA;22.52;Porco;2023-12-20
-DIANTEIRO DE BOI;309.0;Boi;2023-12-20
-COXA S/ COXA;32.0;Frango;2023-12-14
-CARCAÇA SUÍNA;137.0;Porco;2023-12-14
-CARCAÇA BOVINA;136.0;Boi;2023-12-14
-CARCAÇA BOVINA;136.0;Boi;2023-12-14
-TRASEIRO DE BOI;143.0;Boi;2023-12-14
-CARCAÇA SUÍNA;137.0;Porco;2023-12-13
-FILE DE FRANGO;145.0;Frango;2023-12-13
-COXA S/ COXA;32.0;Frango;2023-12-13
-PEITO DE FRANGO;35.0;Frango;2023-12-13
-FIGADO BOV;191.0;Boi;2023-12-13
-LINGUICA PERNIL C/ BACON;212.0;Porco;2023-12-13
-LINGUICA DE PERNIL;211.0;Porco;2023-12-13
-CARCAÇA BOVINA;135.0;Boi;2023-12-12
-CARCAÇA SUÍNA;137.0;Porco;2023-12-12
-PERNIL;20.0;Porco;2023-12-12
-LOMBO;19.0;Porco;2023-12-12
-COSTELA S OSSO;13.0;Porco;2023-12-12
-CARCAÇA BOVINA;284.0;Boi;2023-12-11
-CARCAÇA BOVINA;112.7;Boi;2023-12-10
-CARCAÇA BOVINA;112.7;Porco;2023-12-10
-CARCAÇA BOVINA;259.4;Boi;2023-11-30
-FILÉ DE PEITO;20.0;Frango;2023-11-30
-ALCATRA BOVINA;27.509;Boi;2023-11-30
-FILE DE PEITO;20.0;Frango;2023-11-30
-CARCAÇA BOVINA;259.4;Boi;2023-11-30
-COXA S/ COXA;20.0;Frango;2023-11-30
-ALCATRA BOVINA;27.509;Boi;2023-11-30
-COXA S/ COXA;20.0;Frango;2023-11-30
-CARCAÇA BOVINA;124.0;Boi;2023-11-29
-FILE DE FRANGO;36.0;Frango;2023-11-29
-CARCAÇA SUINA;100.0;Porco;2023-11-29
-CARCAÇA SUINA;98.0;Porco;2023-11-28
-PEITO DE FRANGO;20.0;Frango;2023-11-28
-COSTELA S OSSO;49.0;Porco;2023-11-28
-CARCAÇA BOVINA;126.0;Boi;2023-11-28
-FILE DE FRANGO;36.0;Frango;2023-11-27
-COXA S/ COXA;20.0;Frango;2023-11-27
-CARCAÇA BOVINA;137.8;Boi;2023-11-26
-CARCAÇA BOVINA;159.8;Boi;2023-11-24
-DIANTEIRO DE BOI;249.0;boi;2023-11-23
-COXA S/ COXA;15.0;Frango;2023-11-23
-COXINHA DA ASA;15.0;Frango;2023-11-23
-MIOLO DE ALCATRA;20.04;Boi;2023-11-23
-CONTRA FILE;21.748;Boi;2023-11-23
-CARCAÇA BOVINA;130.0;Boi;2023-11-23
-DIANTEIRO DE BOI;249.0;Boi;2023-11-23
-MOELA;2.0;Frango;2023-11-23
-CARCAÇA BOVINA;130.0;boi;2023-11-23
-COXINHA DA ASA;14.0;Frango;2023-11-23
-MOELA;20.0;Frango;2023-11-23
-BACON;18.0;porco;2023-11-23
-PEITO DE FRANGO;40.0;Frango;2023-11-23
-COXA S/ COXA;18.0;Frango;2023-11-23
-PEITO DE FRANGO;4.0;Frango;2023-11-23
-MIOLO DE ALCATRA;20.04;boi;2023-11-23
-CONTRA FILE;21.748;boi;2023-11-23
-CARCAÇA BOVINA;130.0;boi;2023-11-23
-BACON;18.0;Porco;2023-11-23
-COXA S/ COXA;20.0;Frango;2023-11-22
-PEITO;20.0;Frango;2023-11-22
-MOELA;36.0;Frango;2023-11-22
-FILE DE FRANGO;18.0;Frango;2023-11-22
-DIANTEIRO DE BOI;63.0;boi;2023-11-22
-CARCAÇA BOVINA;136.0;boi;2023-11-22
-CARCAÇA BOVINA;139.6;boi;2023-11-21
-COSTELA S OSSO;31.0;boi;2023-11-21
-DIANTEIRO DE BOI;48.0;boi;2023-11-21
-PERNIL;17.473;porco;2023-11-21
-CARCAÇA BOVINA;303.4;boi;2023-11-20
-CARCAÇA SUINA;96.0;porco;2023-11-20
-COXA S/ COXA;18.0;Frango;2023-11-20
-FILE DE FRANGO;20.0;Frango;2023-11-20
-FILE DE FRANGO;36.0;Frango;2023-11-17
-COXA S/ COXA;18.0;Frango;2023-11-17
-CARCAÇA BOVINA;150.0;boi;2023-11-17
-BARRIGA SUINA;24.668;porco;2023-11-17
-COXINHA DA ASA;18.0;Frango;2023-11-17
-CARCAÇA BOVINA;264.0;Boi;2023-11-16
-CARCAÇA BOVINA;158.7;Boi;2023-11-16
-CARCAÇA BOVINA;264.0;boi;2023-11-16
-CARCAÇA BOVINA;158.7;boi;2023-11-16
-CARCAÇA SUINA;95.0;Porco;2023-11-15
-CARCAÇA SUINA;292.0;Porco;2023-11-14
-CARCAÇA BOVINA;314.0;Boi;2023-11-14
-COSTELA S OSSO;14.0;Boi;2023-11-14
-LINGUICA TIPO CALABRESA 500G CX 8KG (TF;5.0;Porco;2023-11-14
-CARCAÇA SUINA;79.0;Porco;2023-11-14
-MIOLO DE ALCATRA;17.12;Boi;2023-11-14
-MIOLO DE ALCATRA;26.7;Boi;2023-11-13
-FILE DE FRANGO;36.0;Frango;2023-11-13
-PEITO DE FRANGO;15.0;Frango;2023-11-13
-PEITO DE FRANGO;30.0;Frango;2023-11-13
-COXA S/ COXA;20.0;Frango;2023-11-13
-CARCAÇA BOVINA;136.0;Boi;2023-11-12
-DIANTEIRO DE BOI;139.0;Boi;2023-11-12
-COSTELINHA;21.0;Porco;2023-11-12
-FIGADO BOV;191.0;Boi;2023-11-12
-MIOLO DE ALCATRA;198.0;Boi;2023-11-12
-BARRIGA SUÍNA;171.0;Porco;2023-11-12
-CARCAÇA BOVINA;287.0;Boi;2023-11-10
-PEITO DE FRANGO;44.0;Frango;2023-10-31
-ALCATRA BOVINA;24.549;Boi;2023-10-31
-LINGUICA TIPO CALABRESA 500G CX 8KG (TF;5.0;Porco;2023-10-31
-CARCAÇA BOVINA;231.6;Boi;2023-10-31
-COSTELA S OSSO;26.0;Boi;2023-10-31
-FILE DE FRANGO;36.0;Frango;2023-10-30
-COXA S/ COXA;36.0;Frango;2023-10-30
-BACON;18.0;Porco;2023-10-30
-BACON;18.0;Porco;2023-10-30
-CARCAÇA BOVINA;119.0;Boi;2023-10-30
-CARCAÇA BOVINA;413.0;Boi;2023-10-27
-CARCAÇA BOVINA;167.7;Boi;2023-10-26
-PEITO DE FRANGO;20.0;Frango;2023-10-26
-COXA S/ COXA;20.0;Frango;2023-10-26
-COSTELA S OSSO;16.0;Boi;2023-10-26
-CARCAÇA BOVINA;252.0;Boi;2023-10-26
-FILE DE FRANGO;18.0;Frango;2023-10-25
-COXA S/ COXA;18.0;Frango;2023-10-25
-CARCAÇA SUINA;162.0;Porco;2023-10-23
-CARCAÇA BOVINA;273.0;Boi;2023-10-19
-CARCAÇA BOVINA;138.2;Boi;2023-10-19
-CARCAÇA BOVINA;135.0;Boi;2023-10-18
-COSTELA S OSSO;53.0;Boi;2023-10-17
-LINGUICA TIPO CALABRESA 500G CX 8KG (TF;5.0;Porco;2023-10-17
-CARCAÇA BOVINA;145.0;Boi;2023-10-17
-CARCAÇA BOVINA;130.8;Boi;2023-10-16
-DIANTEIRO DE BOI;47.0;Boi;2023-10-16
-DRUMETE FGO IND. RIVELLI 20KG;20.0;Frango;2023-10-16
-COXA S/ COXA;20.0;Frango;2023-10-16
-PEITO DE FRANGO;20.0;Frango;2023-10-16
-CARCAÇA BOVINA;152.6;Boi;2023-10-15
-CARCAÇA BOVINA;119.0;Boi;2023-10-13
-CONTRA FILÉ FRIPAI;29.2;Boi;2023-10-13
-CARCAÇA BOVINA;130.0;Boi;2023-10-11
-DIANTEIRO DE BOI;44.0;Boi;2023-10-11
-CONTRA FILET RESER FRIGOL;25.553;Boi;2023-10-10
-ALCATRA BOVINA;18.565;Frango;2023-10-10
-CARCAÇA SUINA;105.0;Porco;2023-10-10
-ALCATRA BOVINA;28.637;Boi;2023-09-30
-TRASEIRO DE BOI;53.0;Boi;2023-09-29
-CARCAÇA BOVINA;123.0;Boi;2023-09-29
-BARRIGA SUINA;28.318;Porco;2023-09-29
-CARCAÇA BOVINA;127.5;Boi;2023-09-28
-CARCAÇA BOVINA;258.8;Boi;2023-09-28
-CARCAÇA BOVINA;258.8;Boi;2023-09-28
-CARCAÇA BOVINA;127.5;Boi;2023-09-28
-CARCAÇA BOVINA;127.5;Boi;2023-09-28
-CARCAÇA BOVINA;258.8;Boi;2023-09-28
-COSTELA S OSSO;58.0;Boi;2023-09-27
-COSTELA S OSSO;58.0;Boi;2023-09-27
-DIANTEIRO DE BOI;84.0;Boi;2023-09-27
-FILE DE FRANGO ENVELOPADO LEVO;18.0;Frango;2023-09-27
-PEITO DE FRANGO;18.0;Frango;2023-09-27
-COXA S/ COXA;18.0;Frango;2023-09-27
-PEITO DE FRANGO;4.0;Frango;2023-09-27
-PEITO DE FRANGO;40.0;Frango;2023-09-27
-COXA S/ COXA;18.0;Frango;2023-09-27
-FILE DE FRANGO ENVELOPADO LEVO;18.0;Frango;2023-09-27
-PEITO DE FRANGO;18.0;Frango;2023-09-27
-DIANTEIRO DE BOI;84.0;Boi;2023-09-27
-CARCAÇA BOVINA;146.4;Boi;2023-09-26
-CARCAÇA BOVINA;146.4;Boi;2023-09-26
-FILE DE PEITO;2.0;Frango;2023-09-25
-CARCAÇA BOVINA;142.0;Boi;2023-09-25
-CARCAÇA BOVINA;142.0;Boi;2023-09-25
-FILE DE PEITO;20.0;Frango;2023-09-25
-COXA S/ COXA;20.0;Frango;2023-09-23
-COXA S/ COXA;20.0;Frango;2023-09-23
-PEITO;20.0;Frango;2023-09-23
-PEITO;20.0;Frango;2023-09-23
-TRASEIRO DE BOI;135.0;Boi;2023-09-22
-TRASEIRO DE BOI;135.0;Boi;2023-09-22
-CARCAÇA BOVINA;137.5;Boi;2023-09-21
-PEITO;20.0;Frango;2023-09-21
-PEITO;20.0;Frango;2023-09-21
-CARCAÇA BOVINA;137.5;Boi;2023-09-21
-TRASEIRO DE BOI;62.0;Boi;2023-09-21
-CARCAÇA BOVINA;134.0;Boi;2023-09-21
-CARCAÇA BOVINA;134.0;Boi;2023-09-21
-TRASEIRO DE BOI;62.0;Boi;2023-09-21
-CARCAÇA BOVINA;258.8;Boi;2023-09-20
-CARCAÇA BOVINA;127.5;Boi;2023-09-19
-FILE DE FRANGO;82.0;Frango;2023-09-18
-CARCAÇA SUÍNA;31.0;Porco;2023-09-16
-FILE DE PEITO;136.0;Frango;2023-09-15
-ALCATRA BOVINA;23.0;Boi;2023-09-14
-CARCAÇA BOVINA;125.8;Boi;2023-09-11
-CARCAÇA BOVINA;241.0;Boi;2023-09-11
-CARCAÇA BOVINA;125.8;Boi;2023-09-11
-CARCAÇA BOVINA;241.0;Boi;2023-09-11
-COXA S/ COXA;18.0;Frango;2023-09-10
-CARCAÇA BOVINA;143.0;Boi;2023-09-10
-ASA;36.0;Frango;2023-09-10
-PERNIL;18.528;Porco;2023-09-10
-FILE DE PEITO;20.0;Frango;2023-09-10
-FILE DE PEITO;80.0;Frango;2023-09-10
-CARCAÇA BOVINA;136.0;Boi;2023-08-12
-DIANTEIRO DE BOI;139.0;Boi;2023-08-12
-CARCAÇA SUÍNA;137.0;Porco;2023-08-12
-CARCAÇA SUINA;97.0;Porco;2023-08-11
-COXA S/ COXA;20.0;Frango;2023-08-11
-COXINHA DA ASA;20.0;Frango;2023-08-11
-CARCAÇA BOVINA;256.0;Boi;2023-08-11
-CARCAÇA BOVINA;128.5;Boi;2023-08-10
-CARCAÇA SUÍNA;137.0;Porco;2023-07-12
-CARCAÇA SUÍNA;107.0;Porco;2023-07-12
-CARCAÇA BOVINA;179.6;Boi;2023-07-12
-BARRIGA SUÍNA;23.794;Porco;2023-07-12
-MIOLO DE ALCATRA;198.0;Boi;2023-07-12
-CARCAÇA BOVINA;136.0;Boi;2023-07-12
-CARCAÇA BOVINA;136.0;Boi;2023-07-12
-DIANTEIRO DE BOI;139.0;Boi;2023-07-12
-BARRIGA SUÍNA;171.0;Porco;2023-07-12
-DIANTEIRO DE BOI;251.0;Boi;2023-07-12
-CARCAÇA BOVINA;136.4;Boi;2023-07-12
-CARCAÇA SUINA;100.0;Porco;2023-07-11
-COXA S/ COXA;20.0;Frango;2023-07-11
-MOELA;16.8;Frango;2023-07-11
-ASA;20.0;Frango;2023-07-11
-MIOLO DE ALCATRA;26.03;Boi;2023-07-11
-DIANTEIRO DE BOI;164.0;Boi;2023-07-11
-COSTELA S OSSO;16.0;Boi;2023-07-11
-CARCAÇA BOVINA;117.0;Boi;2023-07-11
-CARCAÇA BOVINA;143.5;Boi;2023-07-09
-BACON;18.0;Porco;2023-06-12
-MOELA;36.0;Frango;2023-06-12
-CARCAÇA SUÍNA;178.8;Porco;2023-06-12
-CARCAÇA BOVINA;257.0;Boi;2023-06-12
-MOELA;20.0;Frango;2023-06-12
-CARCAÇA BOVINA;255.0;Boi;2023-06-11
-MOELA;30.0;Frango;2023-06-11
-FILE DE PEITO;30.0;Frango;2023-06-11
-PERNIL;18.553;Porco;2023-06-11
-FILE DE FRANGO ENVELOPADO LEVO;36.0;Frango;2023-06-10
-CARCAÇA BOVINA;160.4;Boi;2023-06-10
-PEITO;15.0;Frango;2023-06-09
-CARCAÇA BOVINA;117.8;Boi;2023-06-09
-TRASEIRO DE BOI;56.4;Boi;2023-06-09
-BARRIGA SUÍNA;23.544;Porco;2023-06-09
-COXINHA DA ASA;20.0;Frango;2023-06-09
-CARCAÇA BOVINA;273.8;Boi;2023-05-12
-COSTELA S OSSO;18.0;Porco;2023-05-12
-FILE DE FRANGO;40.0;Frango;2023-05-10
-CARCAÇA BOVINA;137.8;Boi;2023-05-10
-DIANTEIRO DE BOI;90.0;Boi;2023-05-10
-CARCAÇA BOVINA;135.8;Boi;2023-05-10
-CARCAÇA SUINA;249.4;Porco;2023-05-10
-CARCAÇA SUINA;249.4;Porco;2023-05-10
-CARCAÇA BOVINA;137.8;Boi;2023-05-10
-DIANTEIRO DE BOI;90.0;Boi;2023-05-10
-CARCAÇA BOVINA;135.8;Boi;2023-05-10
-FILE DE FRANGO;40.0;Frango;2023-05-10
-MIOLO DE ALCATRA;26.396;Boi;2023-05-09
-CARCAÇA BOVINA;129.0;Boi;2023-05-09
-MOELA;60.0;Frango;2023-05-09
-CONTRA FILE;21.98;Boi;2023-05-09
-CARCAÇA SUÍNA;93.0;Porco;2023-05-09
-FILE DE FRANGO;36.0;Frango;2023-05-09
-COSTELA S OSSO;48.0;Boi;2023-05-09
-ASA;36.0;Frango;2023-04-12
-DIANTEIRO DE BOI;49.0;Boi;2023-04-12
-CARCAÇA BOVINA;131.4;Boi;2023-04-12
-CARCAÇA BOVINA;290.0;Boi;2023-04-10
-MOELA;36.0;Frango;2023-04-10
-FILE DE FRANGO ENVELOPADO LEVO;36.0;Frango;2023-04-10
-FILE DE PEITO;80.0;Frango;2023-04-10
-COXA S/ COXA;20.0;Frango;2023-04-10
-FILE DE FRANGO;36.0;Frango;2023-04-09
-FILE DE PEITO;20.0;Frango;2023-04-09
-PEITO DE FRANGO;20.0;Frango;2023-04-09
-FILE DE PEITO;20.0;Frango;2023-04-09
-FILE DE PEITO;50.0;Frango;2023-03-11
-CARCAÇA BOVINA;133.8;Boi;2023-03-11
-COSTELA S OSSO;62.0;Boi;2023-03-10
-FILE DE PEITO;20.0;Frango;2023-03-10
-CARCAÇA BOVINA;272.0;Boi;2023-03-10
-CARCAÇA BOVINA;136.9;Boi;2023-03-09
-CARCAÇA BOVINA;135.4;Boi;2023-03-09
-COXINHA DA ASA;20.0;Frango;2023-02-12
-COXA S/ COXA;20.0;Frango;2023-02-12
-FILÉ DE PEITO;60.0;Frango;2023-02-12
-CARCAÇA BOVINA;122.7;Boi;2023-02-11
-CARCAÇA BOVINA;122.7;Boi;2023-02-11
-CARCAÇA BOVINA;127.4;Boi;2023-02-10
-COSTELA S OSSO;59.0;Boi;2023-02-10
-DIANTEIRO DE BOI;43.0;Boi;2023-02-10
-FILE DE FRANGO ENVELOPADO LEVO;36.0;Frango;2023-02-10
-BACON;18.0;Porco;2023-02-10
-COXA S/ COXA;10.0;Frango;2023-01-12
-FILÉ DE PEITO;40.0;Frango;2023-01-12
-FILÉ DE FRANGO;40.0;Frango;2023-01-12
-COXA S/ COXA;20.0;Frango;2023-01-12
-MIOLO DE ALCATRA;17.71;Boi;2023-01-12
-CARCAÇA SUÍNA;182.5;Porco;2023-01-12
-CARCAÇA BOVINA;125.0;Boi;2023-01-12
-CARCAÇA BOVINA;151.7;Boi;2023-01-12
-CARCAÇA BOVINA;286.0;Boi;2023-01-11
-CARCAÇA BOVINA;330.8;Boi;2023-01-09
-DIANTEIRO DE BOI;48.0;Boi;2023-01-09
-CARCAÇA SUÍNA;182.1;Porco;2023-01-09
-FILE DE PEITO;60.0;Frango;2023-01-09
+Unnamed: 0;Produto ;Quantidade;Tipo;Data
+0;CARCAÇA BOVINA;152.0;boi;2024-07-04
+3;CARCAÇA BOVINA;131.4;boi;2024-07-04
+4;COXA S/ COXA;23.0;frango;2024-07-04
+1;DIANTEIRO DE BOI;42.0;boi;2024-07-04
+2;COSTELINHA;17.0;porco;2024-07-04
+8;PEITO DE FRANGO;26.0;frango;2024-07-03
+9;PERNIL;20.963;porco;2024-07-03
+5;CARCAÇA SUINA;80.0;porco;2024-07-03
+7;CARCAÇA BOVINA;124.0;boi;2024-07-03
+6;DIANTEIRO DE BOI;41.0;boi;2024-07-03
+10;FILE DE PEITO;26.0;frango;2024-07-02
+11;CARCAÇA BOVINA;144.0;boi;2024-07-02
+12;CARCAÇA SUINA;80.0;porco;2024-07-02
+13;COXA S/ COXA;23.0;frango;2024-07-02
+14;COSTELINHA;17.0;porco;2024-07-01
+15;DIANTEIRO DE BOI;41.0;boi;2024-07-01
+16;COSTELA S/ OSSO;15.0;boi;2024-07-01
+17;BARRIGA SUINA;19.0;porco;2024-07-01
+20;COSTELA S/ OSSO;15.0;boi;2024-06-30
+21;DIANTEIRO DE BOI;41.0;boi;2024-06-30
+19;CARCAÇA BOVINA;144.0;boi;2024-06-30
+18;CARCAÇA SUINA;79.8;porco;2024-06-30
+22;CARCAÇA SUINA;148.0;porco;2024-06-28
+23;CARCAÇA SUINA;168.0;porco;2024-06-28
+24;DIANTEIRO DE BOI;41.0;boi;2024-06-28
+25;CARCAÇA SUINA;80.0;porco;2024-06-28
+30;CARCAÇA SUINA;80.0;porco;2024-06-27
+33;CARCAÇA BOVINA;144.0;boi;2024-06-27
+32;DIANTEIRO DE BOI;41.0;boi;2024-06-27
+31;CARCAÇA BOVINA;144.6;boi;2024-06-27
+28;DIANTEIRO DE BOI;45.0;boi;2024-06-27
+29;CARCAÇA BOVINA;148.0;boi;2024-06-27
+27;CARCAÇA SUINA;80.0;porco;2024-06-27
+26;BARRIGA SUINA;144.0;porco;2024-06-27
+34;BACON;80.0;porco;2024-06-26
+35;CARCAÇA BOVINA;150.0;boi;2024-06-26
+36;COSTELA S OSSO;50.0;boi;2024-06-26
+37;DIANTEIRO DE BOI;45.0;boi;2024-06-26
+38;LINGUICA TIPO CALABRESA 500G CX 8KG (TF);115.0;porco;2024-06-26
+43;CARCAÇA SUINA;78.0;porco;2024-06-25
+45;FILE DE PEITO;82.0;frango;2024-06-25
+44;CARCAÇA SUINA;82.0;porco;2024-06-25
+39;CORTES CONG DE FRANGO - COXINHAS DAS ASAS;50.0;frango;2024-06-25
+42;LINGUICA TIPO CALABRESA 500G CX 8KG (TF);115.0;porco;2024-06-25
+41;COXA S/ COXA;80.0;frango;2024-06-25
+40;FILE DE PEITO;82.0;frango;2024-06-25
+49;CARCAÇA BOVINA;136.0;boi;2024-06-21
+51;ALCATRA BOVINA;40.0;boi;2024-06-21
+52;PE DE FRANGO CONG;16.0;frango;2024-06-21
+48;DIANTEIRO DE BOI;45.0;boi;2024-06-21
+46;CARCAÇA SUINA;152.0;porco;2024-06-21
+50;MOELA;90.0;frango;2024-06-21
+47;CARCAÇA BOVINA;123.0;boi;2024-06-21
+58;CARCAÇA SUINA;69.0;porco;2024-06-20
+62;CARCAÇA BOVINA;139.0;boi;2024-06-20
+60;FILE DE PEITO;46.0;frango;2024-06-20
+59;CARCAÇA BOVINA;140.0;boi;2024-06-20
+61;CARCAÇA SUINA;175.0;porco;2024-06-20
+57;CARCAÇA BOVINA;255.0;boi;2024-06-20
+56;CARCAÇA SUINA;77.0;porco;2024-06-20
+55;CARCAÇA BOVINA;139.8;boi;2024-06-20
+54;DIANTEIRO DE BOI;40.0;boi;2024-06-20
+53;ASA;200.0;frango;2024-06-20
+63;COSTELINHA;18.0;porco;2024-06-18
+64;BARRIGA SUINA;18.0;porco;2024-06-18
+65;COSTELA S OSSO;60.0;boi;2024-06-18
+66;CARCAÇA BOVINA;113.2;boi;2024-06-18
+67;CARCAÇA SUINA;77.0;porco;2024-06-18
+68;CARCAÇA SUINA;28.0;porco;2024-06-18
+73;FILE DE FRANGO;18.0;frango;2024-06-17
+75;CARCAÇA BOVINA;77.0;boi;2024-06-17
+74;DIANTEIRO DE BOI;40.0;boi;2024-06-17
+72;FILE DE PEITO;18.0;frango;2024-06-17
+70;COXA S/ OSSO;12.0;frango;2024-06-17
+69;PERNIL;17.25;porco;2024-06-17
+71;FILE DE PEITO;18.0;frango;2024-06-17
+76;CARCAÇA SUINA;18.0;porco;2024-06-14
+77;BACON;18.0;porco;2024-06-14
+78;CARCAÇA BOVINA;77.0;boi;2024-06-14
+79;COSTELA S OSSO;28.0;boi;2024-06-14
+80;DIANTEIRO DE BOI;40.0;boi;2024-06-14
+81;CARCAÇA SUINA;163.0;porco;2024-06-14
+82;CARCAÇA SUINA;77.0;porco;2024-06-14
+86;BARRIGA SUINA;24.0;porco;2024-06-13
+87;COSTELINHA;14.0;porco;2024-06-13
+84;CARCAÇA BOVINA;113.2;boi;2024-06-13
+85;CARCAÇA SUINA;113.0;porco;2024-06-13
+83;CARCAÇA BOVINA;113.2;boi;2024-06-13
+88;CARCAÇA SUINA;151.0;porco;2024-06-11
+89;COSTELA S OSO;19.0;porco;2024-06-11
+90;DIANTEIRO DE BOI;134.0;boi;2024-06-11
+91;FILE DE PEITO;113.0;frango;2024-06-11
+92;CARCAÇA BOVINA;136.0;boi;2024-06-11
+100;BARRIGA SUINA;33.0;porco;2024-06-07
+99;FILE DE FRANGO ENVELOPADO LEVO;11.0;frango;2024-06-07
+97;CARCAÇA SUINA;143.0;porco;2024-06-07
+98;CARCAÇA BOVINA;135.0;boi;2024-06-07
+96;CARCAÇA BOVINA;128.0;boi;2024-06-07
+93;COSTELINHA;15.65;porco;2024-06-07
+95;MIOLO DE ALCATRA;23.535;boi;2024-06-07
+94;COXA S/ COXA;14.0;frango;2024-06-07
+106;DIANTEIRO DE BOI;136.0;boi;2024-06-06
+101;CARCAÇA BOVINA;132.2;boi;2024-06-06
+108;CARCAÇA SUINA;74.0;porco;2024-06-06
+107;COSTELINHA;18.0;porco;2024-06-06
+109;COSTELINHA;19.35;porco;2024-06-06
+105;CARCAÇA SUINA;151.0;porco;2024-06-06
+104;CARCAÇA BOVINA;135.0;boi;2024-06-06
+103;DIANTEIRO DE BOI;38.0;boi;2024-06-06
+102;CARCAÇA BOVINA;135.0;boi;2024-06-06
+111;COSTELA S OSSO;35.0;boi;2024-06-05
+112;DIANTEIRO DE BOI;136.0;boi;2024-06-05
+110;CARCAÇA BOVINA;135.0;boi;2024-06-05
+113;CARCAÇA BOVINA;135.0;boi;2024-06-04
+114;CONTRA FILE;50.54;boi;2024-06-04
+115;CARCAÇA BOVINA;135.0;boi;2024-06-03
+116;CARCAÇA SUINA;74.0;porco;2024-06-03
+117;DIANTEIRO DE BOI;136.0;boi;2024-06-02
+118;CARCAÇA BOVINA;135.0;boi;2024-06-02
+119;CARCAÇA SUINA;74.0;porco;2024-06-02
+122;BARRIGA SUINA;18.0;porco;2024-06-01
+121;FILE DE FRANGO;33.0;frango;2024-06-01
+120;CARCAÇA BOVINA;135.0;boi;2024-06-01
+124;COXA S/ COXA;18.0;frango;2024-05-31
+125;BARRIGA SUINA;18.47;porco;2024-05-31
+123;CARCAÇA SUINA;151.0;porco;2024-05-31
+126;CARCAÇA BOVINA;163.0;boi;2024-05-30
+127;MIOLO DE ALCATRA;21.16;boi;2024-05-30
+128;carne de boi;44.0;boi;2024-05-28
+129;carne de boi;27.0;boi;2024-05-28
+130;carne de boi;126.0;boi;2024-05-28
+131;porco;152.0;porco;2024-05-27
+133;carne de boi;137.0;boi;2024-05-26
+132;carne de boi;84.0;boi;2024-05-26
+135;coxa;20.0;frango;2024-05-25
+136;peito frango;20.0;frango;2024-05-25
+137;peito frango;30.0;frango;2024-05-25
+134;pé frango;15.0;frango;2024-05-25
+138;porco;24.62;porco;2024-05-24
+139;carne de boi;127.3;boi;2024-05-24
+140;file de frango;60.0;frango;2024-05-24
+141;porco;148.0;porco;2024-05-24
+149;file de frango;25.0;frango;2024-05-23
+147;maminha;24.13;boi;2024-05-23
+150;coxa de frango;17.0;frango;2024-05-23
+148;porco;162.0;porco;2024-05-23
+144;carne de boi;86.0;boi;2024-05-23
+146;miolo de alcatra;23.53;boi;2024-05-23
+143;lingueça;10.0;porco;2024-05-23
+142;carne de boi;148.0;boi;2024-05-23
+145;carne de boi;129.0;boi;2024-05-23
+151;bacon;18.0;porco;2024-05-22
+152;porco;150.0;porco;2024-05-22
+153;carne de boi;119.0;boi;2024-05-22
+154;carne de boi;44.0;boi;2024-05-22
+157;lingueça;5.0;porco;2024-05-21
+158;peito frango;15.0;frango;2024-05-21
+159;porco;16.0;porco;2024-05-21
+156;coxinha;32.0;frango;2024-05-21
+155;file de frango;60.0;frango;2024-05-21
+160;carne de boi;139.0;boi;2024-05-20
+161;file de frango;54.0;frango;2024-05-20
+162;carne de boi;230.0;boi;2024-05-20
+163;porco;74.0;porco;2024-05-20
+164;moela;84.0;frango;2024-05-18
+165;porco;184.0;porco;2024-05-17
+166;barriga suina;23.0;porco;2024-05-17
+167;carne de boi;283.0;boi;2024-05-17
+171;file de frango;60.0;frango;2024-05-16
+173;porco;77.0;porco;2024-05-16
+172;carne de boi;250.0;boi;2024-05-16
+169;frango;20.0;frango;2024-05-16
+170;frango;10.0;frango;2024-05-16
+168;coxa;20.0;frango;2024-05-16
+174;carne de boi;272.0;boi;2024-05-15
+175;coxa;18.0;frango;2024-05-15
+176;carne de porco;81.0;porco;2024-05-15
+177;pernil;19.0;porco;2024-05-15
+178;file de frango;20.0;frango;2024-05-15
+179;file de frango;36.0;frango;2024-05-15
+184;barriga suina;21.0;porco;2024-05-14
+183;miolo de alcatra;25.28;boi;2024-05-14
+182;carne de boi;150.0;boi;2024-05-14
+181;carne boi;57.0;boi;2024-05-14
+180;file de frango;60.0;frango;2024-05-14
+185;porco;161.0;porco;2024-05-13
+186;boi;136.0;boi;2024-05-12
+187;miolo de alcatra;22.0;boi;2024-05-11
+188;carne de boi;267.0;boi;2024-05-10
+189;file de frango;36.0;frango;2024-05-10
+190;porco;197.0;porco;2024-05-10
+193;carne de boi;53.0;boi;2024-05-09
+194;porco;155.0;porco;2024-05-09
+192;carne de boi;139.0;boi;2024-05-09
+191;carne de boi;134.0;boi;2024-05-09
+195;porco;79.0;porco;2024-05-08
+198;bacon;18.0;porco;2024-05-08
+199;porco;25.0;porco;2024-05-08
+196;boi;49.0;boi;2024-05-08
+197;boi;135.0;boi;2024-05-08
+201;boi;333.0;boi;2024-05-07
+200;porco;175.0;porco;2024-05-07
+202;boi;235.0;boi;2024-05-06
+203;file de frango;36.0;frango;2024-05-06
+204;porco;78.0;porco;2024-05-06
+205;barriga suina;28.0;porco;2024-05-06
+208;file de frango;20.0;frango;2024-05-04
+209;file de frango;20.0;frango;2024-05-04
+207;coxa;20.0;frango;2024-05-04
+206;boi;297.0;boi;2024-05-04
+210;file de frango;60.0;frango;2024-05-03
+211;porco;158.0;porco;2024-05-03
+212;moela;80.0;frango;2024-05-03
+213;boi;140.0;boi;2024-05-02
+214;boi;89.0;boi;2024-05-02
+215;coxa;40.0;frango;2024-05-02
+216;file de frango;20.0;frango;2024-05-02
+217;barriga suina;22.0;porco;2024-05-02
+218;porco;98.0;porco;2024-05-02
+222;barriga suina;20.92;porco;2024-04-30
+221;boi;298.0;boi;2024-04-30
+220;porco;73.0;porco;2024-04-30
+219;file de frango;60.0;frango;2024-04-30
+223;boi;125.0;boi;2024-04-29
+224;porco;168.0;porco;2024-04-29
+225;porco;10.0;porco;2024-04-28
+226;boi;44.0;boi;2024-04-28
+227;porco;159.0;porco;2024-04-26
+228;frango;60.0;frango;2024-04-26
+229;boi;143.0;boi;2024-04-26
+234;barriga suina;27.5;porco;2024-04-25
+233;boi;180.0;boi;2024-04-25
+231;boi;155.0;boi;2024-04-25
+230;miolo de alcatra;27.3;boi;2024-04-25
+232;porco;168.0;porco;2024-04-25
+235;boi;126.0;boi;2024-04-24
+236;frango;15.5;frango;2024-04-24
+237;porco;88.0;porco;2024-04-24
+238;porco;81.0;porco;2024-04-23
+239;porco;45.0;porco;2024-04-23
+240;boi;191.0;boi;2024-04-23
+241;boi;99.2;boi;2024-04-23
+244;boi;127.8;boi;2024-04-22
+245;porco;79.0;porco;2024-04-22
+243;coxa;40.0;frango;2024-04-22
+242;frango;80.0;frango;2024-04-22
+247;coxa;40.0;frango;2024-04-20
+246;frango;20.0;frango;2024-04-20
+248;boi;136.0;boi;2024-04-19
+249;barriga suina;26.544;porco;2024-04-19
+250;porco;162.0;porco;2024-04-19
+251;boi;142.0;boi;2024-04-18
+252;porco;78.0;porco;2024-04-18
+253;barriga suina;26.494;porco;2024-04-18
+254;boi;127.0;boi;2024-04-18
+255;miolo de alcatra;28.0;boi;2024-04-18
+259;boi;129.0;boi;2024-04-17
+258;porco;80.0;porco;2024-04-17
+256;boi;147.0;boi;2024-04-17
+257;bacon;9.0;porco;2024-04-17
+260;asa de frango;32.0;frango;2024-04-16
+261;boi;137.0;boi;2024-04-16
+262;porco;86.0;porco;2024-04-16
+263;boi;165.0;boi;2024-04-16
+264;file de frango;60.0;frango;2024-04-16
+265;boi;48.0;boi;2024-04-14
+266;boi;148.0;boi;2024-04-14
+267;porco;76.0;porco;2024-04-14
+269;lingueça;5.0;porco;2024-04-13
+268;pé frango;15.0;frango;2024-04-13
+270;porco;168.0;porco;2024-04-12
+271;boi;163.0;boi;2024-04-12
+272;frango;30.0;frango;2024-04-11
+273;frango;30.0;frango;2024-04-11
+274;boi;266.0;boi;2024-04-11
+275;boi;126.6;boi;2024-04-11
+276;barriga suina;22.67;porco;2024-04-11
+277;porco;162.0;porco;2024-04-10
+278;porco;82.0;porco;2024-04-10
+279;boi;246.0;boi;2024-04-10
+282;porco;81.0;porco;2024-04-09
+281;boi;274.0;boi;2024-04-09
+280;file de frango;30.0;frango;2024-04-09
+283;boi;121.6;boi;2024-04-08
+284;file de frango;72.0;frango;2024-04-08
+285;porco;73.0;frango;2024-04-08
+286;frango;60.0;frango;2024-04-08
+287;coxa;60.0;frango;2024-04-06
+288;boi;191.0;boi;2024-04-05
+289;porco;158.0;porco;2024-04-05
+294;porco;82.0;porco;2024-04-04
+293;barriga suina;21.794;porco;2024-04-04
+291;lingueça;5.0;porco;2024-04-04
+292;boi;288.0;boi;2024-04-04
+290;boi;166.9;boi;2024-04-04
+295;coxinha;36.0;frango;2024-04-03
+297;boi;277.0;boi;2024-04-03
+296;porco;80.0;porco;2024-04-03
+298;file de frango;40.0;frango;2024-04-02
+300;peito frango;60.0;frango;2024-04-02
+301;file de frango;20.0;frango;2024-04-02
+302;boi;48.0;boi;2024-04-02
+299;boi;157.3;boi;2024-04-02
+304;boi;233.0;boi;2024-04-01
+305;porco;168.0;porco;2024-04-01
+303;pernil;17.8;porco;2024-04-01
+306;porco;73.0;porco;2024-03-29
+308;boi;114.0;boi;2024-03-28
+309;boi;50.0;boi;2024-03-28
+307;porco;139.0;porco;2024-03-28
+310;boi;193.0;boi;2024-03-27
+311;boi;135.0;boi;2024-03-27
+312;porco;88.0;porco;2024-03-27
+313;frango;60.0;frango;2024-03-26
+314;boi;182.0;boi;2024-03-26
+316;coxinha;18.0;frango;2024-03-25
+317;boi;174.0;boi;2024-03-25
+315;coxa;30.0;frango;2024-03-25
+318;porco;153.0;porco;2024-03-24
+319;miolo de alcatra;22.0;boi;2024-03-23
+320;porco;163.0;porco;2024-03-22
+321;file de frango;36.0;frango;2024-03-22
+322;boi;128.0;boi;2024-03-22
+323;file de frango;40.0;frango;2024-03-22
+327;file de frango;40.0;frango;2024-03-21
+328;boi;119.0;boi;2024-03-21
+329;barriga suina;27.0;porco;2024-03-21
+326;lingueça;5.0;porco;2024-03-21
+325;boi;162.0;boi;2024-03-21
+324;file de frango;60.0;frango;2024-03-21
+330;bacon;18.0;porco;2024-03-20
+331;porco;152.0;porco;2024-03-20
+332;boi;170.0;boi;2024-03-20
+333;frango;15.0;frango;2024-03-19
+334;coxinha;15.0;frango;2024-03-19
+335;boi;359.0;boi;2024-03-19
+336;coxa;60.0;frango;2024-03-19
+337;file de frango;30.0;frango;2024-03-18
+338;porco;155.0;porco;2024-03-18
+339;boi;180.0;boi;2024-03-17
+343;barriga suina;28.0;porco;2024-03-15
+342;porco;153.0;porco;2024-03-15
+341;file de frango;40.0;frango;2024-03-15
+340;boi;113.6;boi;2024-03-15
+346;porco;151.0;porco;2024-03-14
+344;boi;136.0;boi;2024-03-14
+345;boi;231.0;boi;2024-03-14
+347;boi;263.0;porco;2024-03-13
+348;porco;80.0;porco;2024-03-13
+349;boi;136.0;boi;2024-03-12
+350;porco;77.0;porco;2024-03-12
+351;coxa;20.0;frango;2024-03-12
+352;file de frango;60.0;frango;2024-03-12
+353;boi;114.0;boi;2024-03-11
+355;porco;156.0;porco;2024-03-10
+354;boi;128.0;boi;2024-03-10
+356;boi;45.0;boi;2024-03-09
+357;barriga suina;154.0;porco;2024-03-08
+358;boi;292.0;frango;2024-03-08
+359;frango;18.0;frango;2024-03-08
+360;coxa;40.0;frango;2024-03-08
+361;barriga suina;21.0;porco;2024-03-07
+362;boi;124.0;boi;2024-03-07
+363;boi;166.0;boi;2024-03-07
+365;porco;76.0;porco;2024-03-06
+366;boi;122.0;boi;2024-03-06
+364;porco;79.0;porco;2024-03-06
+367;alcatra;27.35;boi;2024-03-05
+368;boi;310.0;boi;2024-03-05
+369;lingueça;5.0;porco;2024-03-05
+370;porco;78.0;porco;2024-03-05
+371;frango;120.0;frango;2024-03-05
+372;coxinha;15.0;frango;2024-03-05
+373;file de frango;40.0;frango;2024-03-05
+374;file de frango;40.0;frango;2024-03-04
+378;porco;146.0;porco;2024-03-03
+377;boi;222.0;boi;2024-03-03
+376;boi;132.4;boi;2024-03-03
+375;pernil;22.6;porco;2024-03-03
+379;moela;108.0;frango;2024-03-01
+380;coxa;18.0;frango;2024-03-01
+381;coxa;40.0;frango;2024-03-01
+382;porco;155.0;porco;2024-03-01
+383;barriga suina;24.694;porco;2024-03-01
+384;boi;164.0;boi;2024-03-01
+385;boi;110.0;boi;2024-02-29
+386;boi;163.0;boi ;2024-02-28
+387;bacon;18.0;porco;2024-02-28
+390;boi;214.0;boi;2024-02-27
+389;miolo de alcatra;21.0;boi;2024-02-27
+388;porco;76.0;porco;2024-02-27
+392;boi;165.0;boi;2024-02-26
+391;boi;176.0;boi;2024-02-26
+393;barriga suina;23.7;porco;2024-02-23
+396;porco;158.0;porco;2024-02-23
+394;file de frango;80.0;frango;2024-02-23
+395;boi;137.0;boi;2024-02-23
+399;porco;75.0;porco;2024-02-22
+397;boi;148.0;boi;2024-02-22
+398;boi;170.0;boi;2024-02-22
+403;file de frango;80.0;frango;2024-02-21
+404;contra file;25.6;boi;2024-02-21
+400;frango;67.0;frango;2024-02-21
+402;porco;85.0;porco;2024-02-21
+401;boi;194.0;boi;2024-02-21
+405;porco;82.0;porco;2024-02-20
+406;file de frango;60.0;frango;2024-02-20
+407;file de frango;40.0;frango;2024-02-20
+408;frango;77.0;frango;2024-02-20
+410;frango;58.0;frango;2024-02-20
+409;boi;259.0;boi;2024-02-20
+411;file de frango;30.0;frango;2024-02-19
+412;boi;236.0;boi;2024-02-18
+413;porco;140.0;porco;2024-02-18
+414;contra file;141.0;boi;2024-02-18
+415;lingueça;5.0;porco;2024-02-17
+416;contra file;27.0;boi;2024-02-17
+419;porco;159.0;porco;2024-02-16
+420;boi;200.0;boi;2024-02-16
+418;barriga suina;24.0;porco;2024-02-16
+417;file de frango;40.0;frango;2024-02-16
+422;boi;125.0;boi;2024-02-15
+423;frango;40.0;frango;2024-02-15
+424;porco;80.0;porco;2024-02-15
+425;boi;348.0;boi;2024-02-15
+421;frango;76.0;frango;2024-02-15
+426;bacon;18.0;porco;2024-02-14
+427;boi;163.0;boi;2024-02-14
+428;porco;141.0;porco;2024-02-14
+430;porco;147.0;porco;2024-02-09
+429;boi;239.0;boi;2024-02-09
+431;porco;163.0;porco;2024-02-08
+432;miolo de alcatra;24.4;boi;2024-02-08
+433;boi;250.0;boi;2024-02-08
+434;porco;76.0;porco;2024-02-07
+435;barriga suina;24.0;porco;2024-02-07
+436;boi;121.0;boi;2024-02-07
+438;file de frango;60.0;frango;2024-02-06
+439;boi;273.0;boi;2024-02-06
+437;porco;83.0;porco;2024-02-06
+440;porco;79.0;porco;2024-02-05
+441;boi;247.0;boi;2024-02-05
+442;boi;149.0;boi;2024-02-04
+443;contra file;19.5;boi;2024-02-02
+444;porco;162.0;porco;2024-02-02
+445;boi;167.0;boi;2024-02-02
+446;miolo de alcatra;24.5;boi;2024-02-02
+447;barriga suina;21.27;porco;2024-02-01
+448;boi;147.0;boi;2024-02-01
+449;boi;155.0;boi;2024-02-01
+452;porco;86.0;porco;2024-01-31
+450;boi;154.0;boi;2024-01-31
+451;frango;34.0;frango;2024-01-31
+453;boi;163.0;boi;2024-01-30
+454;boi;161.0;boi;2024-01-29
+455;miolo de alcatra;20.0;porco;2024-01-29
+456;porco;151.0;porco;2024-01-29
+457;porco;82.0;porco;2024-01-26
+458;boi;161.0;boi;2024-01-26
+459;file de frango;30.0;frango;2024-01-26
+463;frango;80.0;frango;2024-01-25
+462;boi;167.0;boi;2024-01-25
+461;frango;60.0;frango;2024-01-25
+460;boi;26.0;boi;2024-01-25
+464;coxa;40.0;porco;2024-01-24
+465;porco;85.0;porco;2024-01-24
+466;bacon;18.0;porco;2024-01-24
+467;boi;122.0;boi;2024-01-24
+468;pernil;17.0;porco;2024-01-24
+469;file de frango;80.0;frango;2024-01-24
+470;file de frango;80.0;frango;2024-01-23
+471;boi;98.0;boi;2024-01-23
+472;boi;105.0;boi;2024-01-23
+474;boi;117.0;boi;2024-01-22
+473;porco;84.0;porco;2024-01-22
+475;boi;131.0;boi;2024-01-21
+476;porco;57.0;porco;2024-01-19
+477;boi;332.0;boi;2024-01-19
+478;frango;60.0;frango;2024-01-19
+479;boi;153.0;boi;2024-01-18
+480;porco;86.0;porco;2024-01-18
+481;frango;45.0;frango;2024-01-18
+482;porco;86.0;porco;2024-01-17
+483;boi;130.0;boi;2024-01-17
+485;boi;152.0;boi;2024-01-16
+486;boi;231.0;boi;2024-01-16
+484;frango;45.0;frango;2024-01-16
+488;por;86.0;porco;2024-01-15
+487;boi;131.0;boi;2024-01-15
+489;boi;82.0;boi;2024-01-14
+491;boi;161.0;boi;2024-01-12
+492;porco *****;75.0;porco;2024-01-12
+490;file de frango;36.0;frango;2024-01-12
+495;frango;47.0;frango;2024-01-11
+496;miolo de alcatra;26.0;boi;2024-01-11
+497;boi;118.0;boi;2024-01-11
+494;boi;279.0;boi;2024-01-11
+493;porco;82.0;porco;2024-01-11
+498;miolo de alcatra;138.0;boi;2024-01-10
+499;porco;78.0;porco;2024-01-10
+500;porco;84.0;porco;2024-01-09
+501;boi;129.0;boi;2024-01-09
+502;boi;214.0;boi;2024-01-09
+503;boi;62.0;boi;2024-01-08
+504;frango;70.0;frango;2024-01-06
+505;lingueça;5.0;porco;2024-01-06
+506;boi;119.0;boi;2024-01-05
+507;miolo de alcatra;26.0;boi;2024-01-05
+510;boi;168.0;boi;2024-01-04
+511;costela;142.0;boi;2024-01-04
+509;bacon;18.0;porco;2024-01-04
+508;pernil;16.0;porco;2024-01-04
+512;boi;370.0;boi;2024-01-03
+513;file de frango;40.0;frango;2024-01-03
+514;file de frango;60.0;frango;2024-01-02
+515;file de frango;60.0;frango;2024-01-02
+516;boi;94.0;boi;2024-01-02
+517;porco;83.0;porco;2024-01-01
+520;boi;131.0;boi;2023-12-29
+521;MIOLO DE ALCATRA;28.714;boi;2023-12-29
+519;boi;34.0;boi;2023-12-29
+518;porco;22.5;porco;2023-12-29
+528;boi ;49.0;boi;2023-12-28
+533;boi;134.0;boi;2023-12-28
+532;porco;166.0;porco;2023-12-28
+531;poro;78.0;porco;2023-12-28
+530;CARCAÇA BOVINA;130.0;boi;2023-12-28
+529;TRASEIRO DE BOI;49.0;boi;2023-12-28
+523;TRASEIRO DE BOI;49.0;boi;2023-12-28
+527;CARCAÇA BOVINA;134.8;boi;2023-12-28
+526;CARCAÇA SUÍNA;78.0;porco;2023-12-28
+525;CARCAÇA SUÍNA;166.0;porco;2023-12-28
+524;CARCAÇA BOVINA;130.0;boi;2023-12-28
+522;boi;130.0;boi;2023-12-28
+536;ALCATRA BOVINA;20.838;boi;2023-12-27
+537;FILÉ DE PEITO;20.0;frango;2023-12-27
+534;CARCAÇA BOVINA;233.0;boi;2023-12-27
+535;TRASEIRO DE BOI;45.0;boi;2023-12-27
+539;CARCAÇA BOVINA;144.0;boi;2023-12-26
+540;DIANTEIRO DE BOI;41.0;boi;2023-12-26
+541;FILÉ DE FRANGO;36.0;frango;2023-12-26
+538;ALCATRA BOVINA;26.608;boi;2023-12-26
+542;CARCAÇA BOVINA;134.0;boi;2023-12-21
+543;CARCAÇA SUÍNA;90.0;porco;2023-12-21
+544;ASA;15.0;frango;2023-12-21
+545;CARCAÇA BOVINA;129.5;boi;2023-12-21
+546;PERNIL;21.398;porco;2023-12-21
+547;FILÉ DE FRANGO;36.0;frango;2023-12-21
+551;TRASEIRO DE BOI;51.0;boi;2023-12-20
+553;CARCAÇA BOVINA;128.0;boi;2023-12-20
+552;BARRIGA SUÍNA;22.52;porco;2023-12-20
+549;DIANTEIRO DE BOI;309.0;boi;2023-12-20
+550;CARCAÇA BOVINA;138.0;boi;2023-12-20
+548;FILÉ DE FRANGO;36.0;frango;2023-12-20
+554;CARCAÇA BOVINA;136.0;boi;2023-12-14
+555;TRASEIRO DE BOI;143.0;boi;2023-12-14
+556;CARCAÇA BOVINA;136.0;boi;2023-12-14
+557;COXA S/ COXA;32.0;frango;2023-12-14
+558;CARCAÇA SUÍNA;137.0;porco;2023-12-14
+563;PEITO DE FRANGO;35.0;frango;2023-12-13
+565;FIGADO BOV;191.0;boi;2023-12-13
+564;COXA S/ COXA;32.0;frango;2023-12-13
+560;CARCAÇA SUÍNA;137.0;porco;2023-12-13
+562;LINGUICA PERNIL C/ BACON;212.0;porco;2023-12-13
+561;LINGUICA DE PERNIL;211.0;porco;2023-12-13
+559;FILE DE FRANGO;145.0;frango;2023-12-13
+566;PERNIL;20.0;porco;2023-12-12
+567;CARCAÇA SUÍNA;137.0;porco;2023-12-12
+568;LOMBO;19.0;porco;2023-12-12
+569;COSTELA S OSSO;13.0;porco;2023-12-12
+570;CARCAÇA BOVINA;135.0;boi;2023-12-12
+571;CARCAÇA BOVINA;284.0;boi;2023-12-11
+573;CARCAÇA BOVINA;112.7;boi;2023-12-10
+572;CARCAÇA BOVINA;112.7;porco;2023-12-10
+574;ALCATRA BOVINA;27.509;boi;2023-11-30
+575;FILÉ DE PEITO;20.0;frango;2023-11-30
+576;ALCATRA BOVINA;27.509;boi;2023-11-30
+577;COXA S/ COXA;20.0;frango;2023-11-30
+578;CARCAÇA BOVINA;259.4;boi;2023-11-30
+579;FILE DE PEITO;20.0;frango;2023-11-30
+580;CARCAÇA BOVINA;259.4;boi;2023-11-30
+581;COXA S/ COXA;20.0;frango;2023-11-30
+583;FILE DE FRANGO;36.0;frango;2023-11-29
+584;CARCAÇA BOVINA;124.0;boi;2023-11-29
+582;CARCAÇA SUINA;100.0;porco;2023-11-29
+587;CARCAÇA SUINA;98.0;porco;2023-11-28
+588;COSTELA S OSSO;49.0;porco;2023-11-28
+585;PEITO DE FRANGO;20.0;frango;2023-11-28
+586;CARCAÇA BOVINA;126.0;boi;2023-11-28
+590;FILE DE FRANGO;36.0;frango;2023-11-27
+589;COXA S/ COXA;20.0;frango;2023-11-27
+591;CARCAÇA BOVINA;137.8;boi;2023-11-26
+592;CARCAÇA BOVINA;159.8;boi;2023-11-24
+602;MOELA;20.0;frango;2023-11-23
+611;PEITO DE FRANGO;40.0;frango;2023-11-23
+609;MOELA;20.0;frango;2023-11-23
+607;CONTRA FILE;21.748;boi;2023-11-23
+606;CARCAÇA BOVINA;130.0;boi;2023-11-23
+605;DIANTEIRO DE BOI;249.0;boi;2023-11-23
+604;COXINHA DA ASA;15.0;frango;2023-11-23
+603;MIOLO DE ALCATRA;20.04;boi;2023-11-23
+610;BACON;18.0;porco;2023-11-23
+601;BACON;18.0;porco;2023-11-23
+595;CONTRA FILE;21.748;boi;2023-11-23
+600;PEITO DE FRANGO;40.0;frango;2023-11-23
+593;COXA S/ COXA;15.0;frango;2023-11-23
+594;COXINHA DA ASA;18.0;frango;2023-11-23
+608;MIOLO DE ALCATRA;20.04;boi;2023-11-23
+596;CARCAÇA BOVINA;130.0;boi;2023-11-23
+597;DIANTEIRO DE BOI;209.0;boi;2023-11-23
+598;CARCAÇA BOVINA;130.0;boi;2023-11-23
+599;COXA S/ COXA;18.0;frango;2023-11-23
+617;PEITO;20.0;frango;2023-11-22
+612;FILE DE FRANGO;18.0;frango;2023-11-22
+613;DIANTEIRO DE BOI;63.0;boi;2023-11-22
+614;CARCAÇA BOVINA;136.0;boi;2023-11-22
+615;COXA S/ COXA;20.0;frango;2023-11-22
+616;MOELA;36.0;frango;2023-11-22
+621;PERNIL;17.473;porco;2023-11-21
+620;DIANTEIRO DE BOI;48.0;boi;2023-11-21
+619;COSTELA S OSSO;31.0;boi;2023-11-21
+618;CARCAÇA BOVINA;139.6;boi;2023-11-21
+622;FILE DE FRANGO;20.0;frango;2023-11-20
+623;CARCAÇA SUINA;96.0;porco;2023-11-20
+624;COXA S/ COXA;20.0;frango;2023-11-20
+625;CARCAÇA BOVINA;303.4;boi;2023-11-20
+626;BARRIGA SUINA;24.668;porco;2023-11-17
+627;COXA S/ COXA;18.0;frango;2023-11-17
+628;FILE DE FRANGO;36.0;frango;2023-11-17
+629;COXINHA DA ASA;18.0;frango;2023-11-17
+630;CARCAÇA BOVINA;150.0;boi;2023-11-17
+634;CARCAÇA BOVINA;264.0;boi;2023-11-16
+633;CARCAÇA BOVINA;158.7;boi;2023-11-16
+632;CARCAÇA BOVINA;264.0;boi;2023-11-16
+631;CARCAÇA BOVINA;158.7;boi;2023-11-16
+635;CARCAÇA SUINA;95.0;porco;2023-11-15
+636;CARCAÇA SUINA;79.0;porco;2023-11-14
+638;LINGUICA TIPO CALABRESA 500G CX 8KG (TF;5.0;porco;2023-11-14
+639;COSTELA S OSSO;14.0;boi;2023-11-14
+640;CARCAÇA BOVINA;314.0;boi;2023-11-14
+641;CARCAÇA SUINA;292.0;porco;2023-11-14
+637;MIOLO DE ALCATRA;17.12;boi;2023-11-14
+644;PEITO DE FRANGO;30.0;frango;2023-11-13
+646;FILE DE FRANGO;36.0;frango;2023-11-13
+643;PEITO DE FRANGO;30.0;frango;2023-11-13
+642;COXA S/ COXA;20.0;frango;2023-11-13
+645;MIOLO DE ALCATRA;26.7;boi;2023-11-13
+647;DIANTEIRO DE BOI;139.0;boi;2023-11-12
+648;CARCAÇA BOVINA;136.0;boi;2023-11-12
+649;BARRIGA SUÍNA;171.0;porco;2023-11-12
+650;COSTELINHA;21.0;porco;2023-11-12
+651;MIOLO DE ALCATRA;198.0;boi;2023-11-12
+652;FIGADO BOV;191.0;boi;2023-11-12
+653;CARCAÇA BOVINA;287.0;boi;2023-11-10
+656;ALCATRA BOVINA;24.549;boi;2023-10-31
+658;CARCAÇA BOVINA;231.6;boi;2023-10-31
+657;PEITO DE FRANGO;44.0;frango;2023-10-31
+655;LINGUICA TIPO CALABRESA 500G CX 8KG (TF;5.0;porco;2023-10-31
+654;COSTELA S OSSO;26.0;boi;2023-10-31
+659;BACON;18.0;porco;2023-10-30
+660;CARCAÇA BOVINA;119.0;boi;2023-10-30
+661;BACON;18.0;porco;2023-10-30
+662;COXA S/ COXA;36.0;frango;2023-10-30
+663;FILE DE FRANGO;36.0;frango;2023-10-30
+664;CARCAÇA BOVINA;413.0;boi;2023-10-27
+667;COXA S/ COXA;20.0;frango;2023-10-26
+668;CARCAÇA BOVINA;167.7;boi;2023-10-26
+669;CARCAÇA BOVINA;252.0;boi;2023-10-26
+666;PEITO DE FRANGO;20.0;frango;2023-10-26
+665;COSTELA S OSSO;16.0;boi;2023-10-26
+670;FILE DE FRANGO;18.0;frango;2023-10-25
+671;COXA S/ COXA;18.0;frango;2023-10-25
+672;CARCAÇA SUINA;162.0;porco;2023-10-23
+673;CARCAÇA BOVINA;273.0;boi;2023-10-19
+674;CARCAÇA BOVINA;138.2;boi;2023-10-19
+675;CARCAÇA BOVINA;135.0;boi;2023-10-18
+676;CARCAÇA BOVINA;145.0;boi;2023-10-17
+677;LINGUICA TIPO CALABRESA 500G CX 8KG (TF;5.0;porco;2023-10-17
+678;COSTELA S OSSO;53.0;boi;2023-10-17
+683;PEITO DE FRANGO;20.0;frango;2023-10-16
+682;COXA S/ COXA;20.0;frango;2023-10-16
+681;DRUMETE FGO IND. RIVELLI 20KG;20.0;frango;2023-10-16
+680;CARCAÇA BOVINA;130.8;boi;2023-10-16
+679;DIANTEIRO DE BOI;47.0;boi;2023-10-16
+684;CARCAÇA BOVINA;152.6;boi;2023-10-15
+685;CARCAÇA BOVINA;119.0;boi;2023-10-13
+686;CONTRA FILÉ FRIPAI;29.2;boi;2023-10-13
+687;DIANTEIRO DE BOI;44.0;boi;2023-10-11
+688;CARCAÇA BOVINA;130.0;boi;2023-10-11
+689;CONTRA FILET RESER FRIGOL;25.553;boi;2023-10-10
+690;ALCATRA BOVINA;18.565;frango;2023-10-10
+691;CARCAÇA SUINA;105.0;porco;2023-10-10
+692;ALCATRA BOVINA;28.637;boi;2023-09-30
+694;TRASEIRO DE BOI;53.0;boi;2023-09-29
+695;CARCAÇA BOVINA;123.0;boi;2023-09-29
+693;BARRIGA SUINA;28.318;porco;2023-09-29
+696;CARCAÇA BOVINA;127.5;boi;2023-09-28
+697;CARCAÇA BOVINA;127.5;boi;2023-09-28
+698;CARCAÇA BOVINA;258.8;boi;2023-09-28
+699;CARCAÇA BOVINA;258.8;boi;2023-09-28
+700;CARCAÇA BOVINA;258.8;boi;2023-09-28
+701;CARCAÇA BOVINA;127.5;boi;2023-09-28
+708;PEITO DE FRANGO;40.0;frango;2023-09-27
+713;PEITO DE FRANGO;40.0;frango;2023-09-27
+712;COXA S/ COXA;18.0;frango;2023-09-27
+711;PEITO DE FRANGO;18.0;frango;2023-09-27
+710;COSTELA S OSSO;58.0;boi;2023-09-27
+709;FILE DE FRANGO ENVELOPADO LEVO;18.0;frango;2023-09-27
+705;COSTELA S OSSO;58.0;boi;2023-09-27
+707;COXA S/ COXA;18.0;frango;2023-09-27
+704;PEITO DE FRANGO;18.0;frango;2023-09-27
+703;FILE DE FRANGO ENVELOPADO LEVO;18.0;frango;2023-09-27
+702;DIANTEIRO DE BOI;84.0;boi;2023-09-27
+706;DIANTEIRO DE BOI;84.0;boi;2023-09-27
+714;CARCAÇA BOVINA;146.4;boi;2023-09-26
+715;CARCAÇA BOVINA;146.4;boi;2023-09-26
+718;CARCAÇA BOVINA;142.0;boi;2023-09-25
+719;FILE DE PEITO;20.0;frango;2023-09-25
+717;FILE DE PEITO;20.0;frango;2023-09-25
+716;CARCAÇA BOVINA;142.0;boi;2023-09-25
+720;COXA S/ COXA;20.0;frango;2023-09-23
+721;PEITO;20.0;frango;2023-09-23
+722;COXA S/ COXA;20.0;frango;2023-09-23
+723;PEITO;20.0;frango;2023-09-23
+724;TRASEIRO DE BOI;135.0;boi;2023-09-22
+725;TRASEIRO DE BOI;135.0;boi;2023-09-22
+733;CARCAÇA BOVINA;134.0;boi;2023-09-21
+732;CARCAÇA BOVINA;134.0;boi;2023-09-21
+731;TRASEIRO DE BOI;62.0;boi;2023-09-21
+730;CARCAÇA BOVINA;137.5;boi;2023-09-21
+729;PEITO;20.0;frango;2023-09-21
+727;CARCAÇA BOVINA;137.5;boi;2023-09-21
+726;PEITO;20.0;frango;2023-09-21
+728;TRASEIRO DE BOI;62.0;boi;2023-09-21
+734;CARCAÇA BOVINA;258.8;boi;2023-09-20
+735;CARCAÇA BOVINA;127.5;boi;2023-09-19
+736;FILE DE FRANGO;82.0;frango;2023-09-18
+737;CARCAÇA SUÍNA;31.0;porco;2023-09-16
+738;FILE DE PEITO;136.0;frango;2023-09-15
+739;ALCATRA BOVINA;23.0;boi;2023-09-14
+742;CARCAÇA BOVINA;125.8;boi;2023-09-11
+743;CARCAÇA BOVINA;241.0;boi;2023-09-11
+741;CARCAÇA BOVINA;241.0;boi;2023-09-11
+740;CARCAÇA BOVINA;125.8;boi;2023-09-11
+744;FILE DE PEITO;80.0;frango;2023-09-10
+745;CARCAÇA BOVINA;143.0;boi;2023-09-10
+746;COXA S/ COXA;18.0;frango;2023-09-10
+747;ASA;36.0;frango;2023-09-10
+748;PERNIL;18.528;porco;2023-09-10
+749;FILE DE PEITO;20.0;frango;2023-09-10
+750;file de frango;105.0;frango;2023-09-01
+751;CARCAÇA SUÍNA;137.0;porco;2023-08-12
+752;CARCAÇA BOVINA;136.0;boi;2023-08-12
+753;DIANTEIRO DE BOI;139.0;boi;2023-08-12
+756;COXA S/ COXA;20.0;frango;2023-08-11
+757;CARCAÇA SUINA;97.0;porco;2023-08-11
+754;CARCAÇA BOVINA;256.0;boi;2023-08-11
+755;COXINHA DA ASA;20.0;frango;2023-08-11
+758;CARCAÇA BOVINA;128.5;boi;2023-08-10
+764;CARCAÇA SUÍNA;137.0;porco;2023-07-12
+769;CARCAÇA BOVINA;136.0;boi;2023-07-12
+767;CARCAÇA BOVINA;136.0;boi;2023-07-12
+766;MIOLO DE ALCATRA;198.0;boi;2023-07-12
+765;DIANTEIRO DE BOI;139.0;boi;2023-07-12
+768;CARCAÇA BOVINA;136.4;boi;2023-07-12
+763;BARRIGA SUÍNA;171.0;porco;2023-07-12
+762;DIANTEIRO DE BOI;251.0;boi;2023-07-12
+761;BARRIGA SUÍNA;23.794;porco;2023-07-12
+760;CARCAÇA BOVINA;179.6;boi;2023-07-12
+759;CARCAÇA SUÍNA;107.0;porco;2023-07-12
+770;ASA;20.0;frango;2023-07-11
+771;MIOLO DE ALCATRA;26.03;boi;2023-07-11
+772;CARCAÇA BOVINA;117.0;boi;2023-07-11
+773;COSTELA S OSSO;16.0;boi;2023-07-11
+774;CARCAÇA SUINA;100.0;porco;2023-07-11
+775;COXA S/ COXA;20.0;frango;2023-07-11
+776;MOELA;16.8;frango;2023-07-11
+777;DIANTEIRO DE BOI;164.0;boi;2023-07-11
+778;CARCAÇA BOVINA;143.5;boi;2023-07-09
