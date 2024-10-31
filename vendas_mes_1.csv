@@ -1,17 +1,16 @@
 Unnamed: 0,Produto ,Quantidade,Tipo,Data
 ,porco,86.0,porco,2024-01-31
 ,boi,154.0,boi,2024-01-31
-,frango,34.0,frango,2024-01-31
 ,boi,163.0,boi,2024-01-30
 ,boi,161.0,boi,2024-01-29
 ,miolo de alcatra,20.0,porco,2024-01-29
 ,porco,151.0,porco,2024-01-29
 ,porco,82.0,porco,2024-01-26
 ,boi,161.0,boi,2024-01-26
-,file de frango,30.0,frango,2024-01-26
+,file de frango,45.0,frango,2024-01-26
 ,frango,80.0,frango,2024-01-25
 ,boi,167.0,boi,2024-01-25
-,frango,60.0,frango,2024-01-25
+,frango,65.0,frango,2024-01-25
 ,boi,26.0,boi,2024-01-25
 ,coxa,40.0,porco,2024-01-24
 ,porco,85.0,porco,2024-01-24
@@ -41,21 +40,23 @@ Unnamed: 0,Produto ,Quantidade,Tipo,Data
 ,boi,82.0,boi,2024-01-14
 ,boi,161.0,boi,2024-01-12
 ,porco *****,75.0,porco,2024-01-12
-,file de frango,36.0,frango,2024-01-12
-,frango,47.0,frango,2024-01-11
+,file de frango,46.0,frango,2024-01-12
+,frango,57.0,frango,2024-01-11
 ,miolo de alcatra,26.0,boi,2024-01-11
 ,boi,118.0,boi,2024-01-11
 ,boi,279.0,boi,2024-01-11
 ,porco,82.0,porco,2024-01-11
 ,miolo de alcatra,138.0,boi,2024-01-10
+,file de frango,60.0,frango,2024-01-10
 ,porco,78.0,porco,2024-01-10
 ,porco,84.0,porco,2024-01-09
 ,boi,129.0,boi,2024-01-09
 ,boi,214.0,boi,2024-01-09
 ,boi,62.0,boi,2024-01-08
-,frango,70.0,frango,2024-01-06
+,frango,75.0,frango,2024-01-06
 ,lingueça,5.0,porco,2024-01-06
 ,boi,119.0,boi,2024-01-05
+,file de frango,60.0,frango,2024-01-05
 ,miolo de alcatra,26.0,boi,2024-01-05
 ,boi,168.0,boi,2024-01-04
 ,costela,142.0,boi,2024-01-04
